@@ -301,7 +301,7 @@ body {
   margin-bottom: 0;
 }
 
-.recent > h2 {
+.recent>h2 {
   text-align: center;
   height: 97px;
   width: 280px;
@@ -646,7 +646,7 @@ body {
   top: 0;
   left: 0;
   color: black;
-  background: linear-gradient(0deg, rgba(156, 180, 69, 1) 0%, rgba(240, 249, 207, 1) 100%);
+  background: linear-gradient(0deg, rgb(121, 122, 114) 0%, rgb(243, 248, 223) 100%);
   background-size: 100% 100vh;
   z-index: 20;
   opacity: 0;
@@ -733,6 +733,7 @@ body {
     grid-gap: 24px; */
   }
 }
+
 @media screen and (min-width: 768px) {
   nav .nav-items {
     background-color: var(--bg-color);
