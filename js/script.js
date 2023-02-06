@@ -1,5 +1,5 @@
 import cardCreator from './modules/cardCreator.js';
-import projects from '../data/projects.js';
+import Works from './modules/works.js';
 import createPopup from './modules/popupCreator.js';
 import animate from './animate.js';
 
@@ -44,7 +44,7 @@ contact.addEventListener('click', () => {
 });
 
 window.addEventListener('load', () => {
-  cardCreator(projects);
+  cardCreator(Works);
   createPopup();
   animate();
 });
