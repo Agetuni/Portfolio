@@ -29,7 +29,7 @@ const Works = [
       imageUrl: './images/project_images/elearning.jpg',
       technologies: ['Moodle', '.Net 5', 'Entity Framework', 'React', 'Redux', 'JavaScript', 'MSSQL', 'Azure'],
       liveVersion: 'http://learning1.ethiopianairlines.com/',
-      source: 'https://github.com/ABDULALI3468/bookMe-frontend',
+      source: 'https://github.com/Agetuni/elearning',
       souceExist: false,
   },
   {
@@ -38,7 +38,7 @@ const Works = [
       imageUrl: './images/project_images/library.jpg',
       technologies: ['KOHA', 'PHP', 'Rails', 'React', 'MySQL', 'Linux', 'Azure'],
       liveVersion: 'https://docs.google.com/document/d/1cjc4ivUQjxWYwR7EvY6sxU0oQAC2EEOK6vAXw5kdn7s/edit?usp=sharing',
-      source: 'https://github.com/Agetuni/libraryManagmentSystem',
+      source: 'https://github.com/Agetuni/ethiopianAviationLMS',
   },
   {
       title: 'Training Managment Service',
@@ -46,7 +46,7 @@ const Works = [
       imageUrl: './images/project_images/tms.jpg',
       technologies: ['ASP.NET', 'MVC', 'C#', 'PostgreSQL', 'Azure'],
       liveVersion: 'https://eaatms.ethiopianairlines.com/',
-      source: 'https://github.com/Agetuni/https://github.com/Agetuni/training_managment_system',
+      source: 'https://github.com/Agetuni/training_managment_system',
   },
   {
       title: 'Legal Cases Monitoring system',
