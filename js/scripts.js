@@ -45,7 +45,7 @@ const Works = [
       description: 'Ethiopian Aviation academy’s training management system helps the academy to manage and track trainee and employee training. It is designed to streamline the entire training process, from creating and scheduling training programs to track employee progress and completion. One of the key features of this system is its ability to create and manage training programs. This can include creating and scheduling classes, managing instructor schedules, and tracking attendance. Another important feature of this system is its ability to track employee progress and completion. This can include tracking attendance, test scores, and completion of training materials. This information can be used to identify areas of improvement and to monitor employee performance.',
       imageUrl: './images/project_images/tms.jpg',
       technologies: ['ASP.NET', 'MVC', 'C#', 'PostgreSQL', 'Azure'],
-      liveVersion: 'https://eaatms.ethiopianairlines.com/',
+      liveVersion: 'https://docs.google.com/document/d/1eJ5RX_hUSS0L1mYA3yi24IfXMm8iW2J9k2v0Yc0ND9Q/edit?usp=sharing',
       source: 'https://github.com/Agetuni/training_managment_system',
   },
   {
@@ -56,14 +56,14 @@ const Works = [
       liveVersion: 'https://docs.google.com/document/d/1HE8eg3M5ifUGWbx6t-M67z-LcKbMBOr3nWP08V-prjE/edit?usp=sharing',
       source: 'https://github.com/Agetuni/lega_case_managment_system',
   },
-  {
-      title: 'Space travelers (personal)',
-      description: 'This is an app in wich you can reserve a tour to space and  show all your reserved tours. How this App works is like when you run the app you will see the screen with all available space ships from SpaceX. Then you can reserve any number of available tours and cancel the reservation anytime. ',
-      imageUrl: './images/project_images/space.jpg',
-      technologies: ['React', 'Redux', 'Space-X API', 'Bootstrap'],
-      liveVersion: 'https://bookspacehub.netlify.app/',
-      source: 'https://github.com/Agetuni/SpaceTravlersHub',
-  },
+  // {
+  //     title: 'Space travelers (personal)',
+  //     description: 'This is an app in wich you can reserve a tour to space and  show all your reserved tours. How this App works is like when you run the app you will see the screen with all available space ships from SpaceX. Then you can reserve any number of available tours and cancel the reservation anytime. ',
+  //     imageUrl: './images/project_images/space.jpg',
+  //     technologies: ['React', 'Redux', 'Space-X API', 'Bootstrap'],
+  //     liveVersion: 'https://bookspacehub.netlify.app/',
+  //     source: 'https://github.com/Agetuni/SpaceTravlersHub',
+  // },
 ];
 
 const popup = (name, img, desc, tech, liveVersion, projectSource, index) => {
